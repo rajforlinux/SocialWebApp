@@ -1,2 +1,1 @@
-# chatbot
-dce mini project 
+CHAT BOT FOR PRAYASH SHARMA
