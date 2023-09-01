@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(to bottom right, #aaa2f5, #ce80ce, #163e8a);
+  /* background-size: cover; */
+  font-family: "Poppins", sans-serif;
+}
+
+.login {
+  font-family: "Poppins", sans-serif;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid white;
+  border-radius: 2px;
+}
